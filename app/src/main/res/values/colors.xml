@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#673AB7</color>
+    <color name="purple_dark">#512DA8</color>
+    <color name="green_deposit">#2E7D32</color>
+    <color name="red_withdraw">#C62828</color>
+    <color name="background_light">#F5F6FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#666666</color>
+</resources>
